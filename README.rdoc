@@ -1,9 +1,2 @@
-= RailsCasts Example Application
-
-Run these commands to try it out.
-
-  bundle
-  rake db:setup
-  rails s
-
-Requires Ruby 1.9.2 or later to run.
+= First attempts at using Omniauth
+About to begin the gSchool feed engine project, experimenting with the use of omniauth and devise with Twitter integration etc.
