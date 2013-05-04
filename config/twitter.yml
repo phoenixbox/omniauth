@@ -1,0 +1,11 @@
+development:
+  TWITTER_KEY: wLdYZlHYwPdq0k4qCix8w
+  TWITTER_SECRET: 0SyPlmjT2yoSNdvhlZsLUd1GIYnMqeVwkUHh10GQw
+
+test:
+  TWITTER_KEY: wLdYZlHYwPdq0k4qCix8w
+  TWITTER_SECRET: 0SyPlmjT2yoSNdvhlZsLUd1GIYnMqeVwkUHh10GQw
+
+production:
+  TWITTER_KEY: wLdYZlHYwPdq0k4qCix8w
+  TWITTER_SECRET: 0SyPlmjT2yoSNdvhlZsLUd1GIYnMqeVwkUHh10GQw
