@@ -50,3 +50,4 @@ gem 'jquery-rails'
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
 gem 'omniauth-twitter'
+gem 'twitter'
